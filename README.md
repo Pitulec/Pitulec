@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap"> 
   <img src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white" />
   <br />
