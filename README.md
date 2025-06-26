@@ -1,4 +1,3 @@
-<img src="https://i.imgur.com/KRmIJ95.jpeg" />
 <div style="display: flex; flex-wrap: wrap"> 
   <img style="height: 30px" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs" />
   <img style="height: 30px" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white" />
