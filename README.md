@@ -26,6 +26,6 @@ Currently, I’m focusing on **full-stack development** with modern frameworks a
 
 <br />
 
-## 🔗 Important links
+## ❗️ Important
 - #### Website: [pitulec.com](https://pitulec.com)
 - #### Email: kontakt@pitulec.com 
