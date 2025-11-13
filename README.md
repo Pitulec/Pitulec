@@ -1,13 +1,25 @@
-# Hi there 👋 I'm Peter  
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-💡 *Learning to Code, Create, and Connect with People*  
+I’m [**Peter**](https://pitulec.com) — a developer who loves to learn, build, and share ideas.  
 
-I'm passionate about building web applications, exploring new technologies, and improving my coding skills every day.  
-Currently, I’m focusing on **full-stack development** with modern frameworks and tools.  
+I’m passionate about creating modern, fast, and meaningful web applications.  
+Whenever I find something interesting, I *dive in*, *experiment*, and usually *end up building something cool*.
 
-<br />
+My current focus is **full-stack development**, with a deep love for clean UI and smooth user experiences.
 
-## 🚀 Skills & Technologies  
+#### My main tech stack:
+**Next.js**, **React**, and **Tailwind CSS**.
+I also enjoy working with **C++**, **Python**, and **MySQL** whenever the project calls for it.
+
+#### Tools I use every day:
+VS Code, Figma and After Effects 🖥️  
+
+### 🧠 What I’m up to
+- Learning and experimenting with new technologies  
+- Building personal and open-source projects  
+- Constantly improving my development workflow  
+
+### ⚙️ Skills & Technologies  
 
 <div style="display: flex; flex-wrap: wrap"> 
   <img style="height: 23px" src="https://img.shields.io/badge/Next.js-black?logo=nextdotjs" />
@@ -24,8 +36,10 @@ Currently, I’m focusing on **full-stack development** with modern frameworks a
   <img style="height: 23px" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black" />
 </div>
 
-<br />
+### 🎯 Fun Facts
+* I love music
+* **Hobbies:** tech, gaming, gym, and creating cool stuff  
 
-## ❗️ Important
-- #### Website: [pitulec.com](https://pitulec.com)
-- #### Email: kontakt@pitulec.com 
+### 📫 Contact  
+- **Website:** [pitulec.com](https://pitulec.com)  
+- **Email:** kontakt@pitulec.com
